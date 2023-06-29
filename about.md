@@ -10,4 +10,4 @@ I developed [robotic clothing assistance](https://www.ravijoshi.xyz/project/fram
 
 
 ### More about me
-For more information, please visit my official website [http://ravijoshi.xyz/](http://ravijoshi.xyz/)
+For more information, please visit my official website [https://ravijoshi.xyz/](https://ravijoshi.xyz/)
